@@ -1,14 +1,8 @@
 ## Hi there 👋
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" width="50">
-  <img src="https://skillicons.dev/icons?i=python" width="50">
-  <img src="https://skillicons.dev/icons?i=cs" width="50">
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50">
-</p>
-
 
 ## 🛠️ Skills
+   Languages:
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,cs,dotnet" />
 </p>
