@@ -1,5 +1,5 @@
 ## Hi there 👋
-  I'm Momen Mohmoud, a passionate student always looking for new learning and scholarship opportunities.
+  I'm Momen Mohmoud, a passionate student always looking for new skills.
   Feel free and take a tour at my projects.
 
   
