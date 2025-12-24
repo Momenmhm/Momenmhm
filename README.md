@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##About me
+## About me
 - Passionate about software development and continuous learning.
 - Interested in building clean, organized, and user-friendly applications.
 - Experienced with C#, C++, Python, and .NET technologies.
