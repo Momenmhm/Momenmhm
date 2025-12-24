@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" width="50" />
   <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://skillicons.dev/icons?i=dotnet" width="50" />
 </p>
 
 
