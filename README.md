@@ -1,5 +1,8 @@
 ## Hi there 👋
+  I'm Momen Mohmoud, a passionate student always looking for new learning and scholarship opportunities.
+  Feel free and take a tour at my projects.
 
+  
 ## About me
 - Passionate about software development and continuous learning.
 - Interested in building clean, organized, and user-friendly applications.
