@@ -1,12 +1,12 @@
 ## Hi there 👋
-  I'm Momen Mohmoud, a passionate student always looking for new skills.
+  I'm Momen Mohmoud, a passionate student always looking for new skills and opportunities.
   Feel free and take a tour at my projects.
 
   
 ## About me
 - Passionate about software development and continuous learning.
 - Interested in building clean, organized, and user-friendly applications.
-- Experienced with C#, C++, Python, and .NET technologies.
+- Experienced with C#, C++, Python, and .NET framework technologies.
 - Always improving my skills and exploring new tools and ideas.
 
 
