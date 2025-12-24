@@ -7,6 +7,16 @@
   <img src="https://skillicons.dev/icons?i=dotnet" width="50">
 </p>
 
+
+## 🛠️ Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs,dotnet" />
+</p>
+
+
+
+
+
 <!--
 **Momenmhm/Momenmhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
