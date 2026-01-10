@@ -22,7 +22,8 @@
   <img src="https://skillicons.dev/icons?i=github" width="50" />
 </p>
 
-
+##LinkedIn:
+    https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNGOek3QjQ5mVnYpSD644EA%3D%3D
 
 
 
