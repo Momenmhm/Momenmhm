@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" style="pointer-events: none;" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" style="pointer-events: none;" />
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" style="pointer-events: none;" />
-</p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" style="pointer-events: none;" />
+
+</p>
+  
 
 
 
@@ -40,7 +42,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" style="pointer-events: none;" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="pointer-events: none;" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="pointer-events: none;" />
-  <img <img src="https://img.shields.io/badge/SSMS-1C6BA4?style=flat-square&logo=microsoftsqlserver&logoColor=white" style="pointer-events: none;" />
+  <img  src="https://img.shields.io/badge/SSMS-1C6BA4?style=flat-square&logo=microsoftsqlserver&logoColor=white" style="pointer-events: none;" />
 
 ---
 
