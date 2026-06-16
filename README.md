@@ -52,7 +52,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3> Hospital Management System</h3>
-      <p>A comprehensive SQL Server database covering clinical and billing workflows across <strong>20+ tables</strong>. Designed with real-world constraints, relationships, and normalized schema.</p>
+      <p>A SQL Server database for managing hospital operations, with 20+ tables covering patients, doctors, and billing. Built with real relationships, constraints, and a well-normalized schema.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       </p>
@@ -62,7 +62,7 @@
     </td>
     <td width="50%" valign="top">
       <h3> Bank System OOP</h3>
-      <p>A console-based banking system built with <strong>C++</strong> applying object-oriented programming principles including encapsulation, classes, and file-based data management.</p>
+      <p>A console-based banking system built with <strong>C++</strong> applying object-oriented programming principles including encapsulation, Inheritance, and file-based data management.</p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
       </p>
