@@ -1,44 +1,70 @@
-## Hi there 👋
-  I'm Momen Mohmoud, a passionate student always looking for new skills and opportunities.
-  Feel free and take a tour at my projects.
+<h1 align="center">Hi, I'm Momen Mohmoud 👋</h1>
 
-  
-## About me
-- Passionate about software development and continuous learning.
-- Interested in building clean, organized, and user-friendly applications.
-- Experienced with C#, C++, Python, and .NET framework technologies.
-- Always improving my skills and exploring new tools and ideas.
-
-
-## 🛠️ Skills
-   Languages:
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,cs,dotnet" />
-</p>
-    Tools:
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+<p align="center">
+  <em>Passionate about building clean, organized, and user-friendly software</em>
 </p>
 
-## LinkedIn 
-  https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNGOek3QjQ5mVnYpSD644EA%3D%3D
+<p align="center">
+  <a href="https://www.linkedin.com/in/momen-mohmoud-a952a2335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
 
+## About Me
 
+- 🎯 Focused on **software development** and continuous learning
+- 🧠 Interested in building applications that are clean, organized, and user-friendly
+- 📚 Always exploring new tools, patterns, and ideas
+- 🚀 Working toward becoming a skilled software engineer
 
-<!--
-**Momenmhm/Momenmhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+## ⚙️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 Hospital Management System</h3>
+      <p>A comprehensive SQL Server database covering clinical and billing workflows across <strong>20+ tables</strong>. Designed with real-world constraints, relationships, and normalized schema.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      </p>
+      <a href="https://github.com/Momenmhm/Hospital-Management-System-DB">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏦 Bank System OOP</h3>
+      <p>A console-based banking system built with <strong>C++</strong> applying object-oriented programming principles including encapsulation, classes, and file-based data management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      </p>
+      <a href="https://github.com/Momenmhm/Bank-System-OOP-">
+        <img src="https://img.shields.io/badge/View%20Project-181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
