@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Languages
+##  Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="pointer-events: none;" />
@@ -36,7 +36,7 @@
 
 
 
-## ⚙️ Tools
+##  Tools
 
 <p>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" style="pointer-events: none;" />
