@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
+<img src="https://img.shields.io/badge/SQL%20Server-6E6E6E?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+
 ## ⚙️ Tools
 
 <p>
